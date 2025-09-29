@@ -1,0 +1,3 @@
+NAME                                READY   STATUS    RESTARTS   AGE
+nginx-deployment-6f9664446b-8hbsv   1/1     Running   0          3m13s
+nginx-deployment-6f9664446b-llbnj   1/1     Running   0          3m13s
