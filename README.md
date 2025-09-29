@@ -1,6 +1,6 @@
 # Task 5 – Kubernetes Cluster with Minikube
 
-**Prepared by:** Ashok Jangid
+**Prepared by:** Vaibhav Agarwal
 **GitHub Repository:** [https://github.com/Aj4236/k8s-task5](https://github.com/Aj4236/k8s-task5)
 
 ---
